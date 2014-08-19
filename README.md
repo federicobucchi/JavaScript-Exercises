@@ -1,4 +1,4 @@
-gists
+JavaScript Exercises
 =====
 
 JavaScript Inheritance  
