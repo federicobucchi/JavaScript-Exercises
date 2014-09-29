@@ -15,3 +15,6 @@ https://gist.github.com/federicobucchi/780f0b94ceb0d7bc4a0e
 
 Fizz Buzz  
 https://gist.github.com/federicobucchi/882c94755956c108e7ee
+
+Palindrome and Longest Palindrome  
+https://gist.github.com/federicobucchi/b9ab05578c480cce70d1
