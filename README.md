@@ -18,3 +18,6 @@ https://gist.github.com/federicobucchi/882c94755956c108e7ee
 
 Palindrome and Longest Palindrome  
 https://gist.github.com/federicobucchi/b9ab05578c480cce70d1
+
+First Not Repeated Char  
+https://gist.github.com/federicobucchi/260e4de3d3bc2a96abdf
