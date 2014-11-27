@@ -21,3 +21,6 @@ https://gist.github.com/federicobucchi/b9ab05578c480cce70d1
 
 First Not Repeated Char  
 https://gist.github.com/federicobucchi/260e4de3d3bc2a96abdf
+
+Closures  
+https://gist.github.com/federicobucchi/fca81592ff7c9f46c08d
