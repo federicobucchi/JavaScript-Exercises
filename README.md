@@ -25,5 +25,5 @@ https://gist.github.com/federicobucchi/260e4de3d3bc2a96abdf
 Closures  
 https://gist.github.com/federicobucchi/fca81592ff7c9f46c08d
 
-Happy Number 
+Happy Number  
 https://gist.github.com/federicobucchi/8ee05c8f6bcb47e439e4
