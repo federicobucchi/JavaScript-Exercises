@@ -27,3 +27,6 @@ https://gist.github.com/federicobucchi/fca81592ff7c9f46c08d
 
 Happy Number  
 https://gist.github.com/federicobucchi/8ee05c8f6bcb47e439e4
+
+Count Prime Numbers  
+https://gist.github.com/federicobucchi/3636a2e90a57effd587b
