@@ -30,3 +30,6 @@ https://gist.github.com/federicobucchi/8ee05c8f6bcb47e439e4
 
 Count Prime Numbers  
 https://gist.github.com/federicobucchi/3636a2e90a57effd587b
+
+Luhn Algorithm - Credit Card Validation  
+https://gist.github.com/federicobucchi/57dd2d3c9f8ed71a4a64
